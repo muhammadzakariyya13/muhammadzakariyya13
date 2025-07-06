@@ -1,11 +1,11 @@
-# 🚀 Tentang Saya
+# 🚀 About Me
 
-Saya adalah seorang **Software Engineering yang bersemangat**, dengan fokus pada pengembangan aplikasi web yang modern, efisien, dan bermanfaat. Saya antusias mengeksplorasi teknologi terbaru untuk menciptakan solusi digital yang berdampak.
+I am a passionate **Software Engineer** with a focus on building modern, efficient, and impactful web applications. I enjoy exploring the latest technologies to create meaningful digital solutions.
 
-## 💻 Kemampuan Teknis
+## 💻 Technical Skills
 
 ### 🌐 Frontend Development  
-Saya mampu membangun antarmuka pengguna yang interaktif dan responsif menggunakan teknologi berikut:
+I can build interactive and responsive user interfaces using the following technologies:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Saya mampu membangun antarmuka pengguna yang interaktif dan responsif menggunaka
 ---
 
 ### 🛠 Backend Development  
-Saya juga memiliki kemampuan di sisi server untuk membangun aplikasi dinamis dan scalable, menggunakan:
+I'm also experienced in building dynamic and scalable applications using:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -27,6 +27,6 @@ Saya juga memiliki kemampuan di sisi server untuk membangun aplikasi dinamis dan
 ---
 
 ### 🗄️ Database  
-Untuk pengelolaan data dan integrasi backend, saya terbiasa menggunakan:
+For data management and backend integration, I commonly use:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
